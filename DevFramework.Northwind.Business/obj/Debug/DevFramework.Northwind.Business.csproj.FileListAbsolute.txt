@@ -1,0 +1,6 @@
+C:\Users\ONUR\Desktop\C# Dili Dokümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DevFramework\DevFramework.Northwind.Business\bin\Debug\DevFramework.Northwind.Business.dll
+C:\Users\ONUR\Desktop\C# Dili Dokümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DevFramework\DevFramework.Northwind.Business\bin\Debug\DevFramework.Northwind.Business.pdb
+C:\Users\ONUR\Desktop\C# Dili Dokümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DevFramework\DevFramework.Northwind.Business\obj\Debug\DevFramework.Northwind.Business.csproj.AssemblyReference.cache
+C:\Users\ONUR\Desktop\C# Dili Dokümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DevFramework\DevFramework.Northwind.Business\obj\Debug\DevFramework.Northwind.Business.csproj.CoreCompileInputs.cache
+C:\Users\ONUR\Desktop\C# Dili Dokümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DevFramework\DevFramework.Northwind.Business\obj\Debug\DevFramework.Northwind.Business.dll
+C:\Users\ONUR\Desktop\C# Dili Dokümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DevFramework\DevFramework.Northwind.Business\obj\Debug\DevFramework.Northwind.Business.pdb
