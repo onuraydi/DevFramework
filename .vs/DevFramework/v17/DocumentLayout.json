@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\ONUR\\Desktop\\C# Dili Dok\u00FCmanlar\\Proje - \u00D6rnekler - Kodlar(\u0130leri seviye kurs i\u00E7in)\\DevFramework\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{69FF5F1A-73BA-4897-9417-170AA2709E44}|DevFramework.Northwind.Business\\DevFramework.Northwind.Business.csproj|c:\\users\\onur\\desktop\\c# dili dok\u00FCmanlar\\proje - \u00F6rnekler - kodlar(\u0130leri seviye kurs i\u00E7in)\\devframework\\devframework.northwind.business\\concrete\\managers\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69FF5F1A-73BA-4897-9417-170AA2709E44}|DevFramework.Northwind.Business\\DevFramework.Northwind.Business.csproj|solutionrelative:devframework.northwind.business\\concrete\\managers\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3F0C987B-EA3D-4240-BD3C-7488E32A22F7}|DevFramework.Core\\DevFramework.Core.csproj|c:\\users\\onur\\desktop\\c# dili dok\u00FCmanlar\\proje - \u00F6rnekler - kodlar(\u0130leri seviye kurs i\u00E7in)\\devframework\\devframework.core\\aspects\\postsharp\\fluentvalidationaspect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F0C987B-EA3D-4240-BD3C-7488E32A22F7}|DevFramework.Core\\DevFramework.Core.csproj|solutionrelative:devframework.core\\aspects\\postsharp\\fluentvalidationaspect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{69FF5F1A-73BA-4897-9417-170AA2709E44}|DevFramework.Northwind.Business\\DevFramework.Northwind.Business.csproj|c:\\users\\onur\\desktop\\c# dili dok\u00FCmanlar\\proje - \u00F6rnekler - kodlar(\u0130leri seviye kurs i\u00E7in)\\devframework\\devframework.northwind.business\\abstract\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69FF5F1A-73BA-4897-9417-170AA2709E44}|DevFramework.Northwind.Business\\DevFramework.Northwind.Business.csproj|solutionrelative:devframework.northwind.business\\abstract\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{69FF5F1A-73BA-4897-9417-170AA2709E44}|DevFramework.Northwind.Business\\DevFramework.Northwind.Business.csproj|c:\\users\\onur\\desktop\\c# dili dok\u00FCmanlar\\proje - \u00F6rnekler - kodlar(\u0130leri seviye kurs i\u00E7in)\\devframework\\devframework.northwind.business\\concrete\\managers\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69FF5F1A-73BA-4897-9417-170AA2709E44}|DevFramework.Northwind.Business\\DevFramework.Northwind.Business.csproj|solutionrelative:devframework.northwind.business\\concrete\\managers\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,27 +27,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ProductManager.cs",
-              "DocumentMoniker": "C:\\Users\\ONUR\\Desktop\\C# Dili Dok\u00FCmanlar\\Proje - \u00D6rnekler - Kodlar(\u0130leri seviye kurs i\u00E7in)\\DevFramework\\DevFramework.Northwind.Business\\Concrete\\Managers\\ProductManager.cs",
-              "RelativeDocumentMoniker": "DevFramework.Northwind.Business\\Concrete\\Managers\\ProductManager.cs",
-              "ToolTip": "C:\\Users\\ONUR\\Desktop\\C# Dili Dok\u00FCmanlar\\Proje - \u00D6rnekler - Kodlar(\u0130leri seviye kurs i\u00E7in)\\DevFramework\\DevFramework.Northwind.Business\\Concrete\\Managers\\ProductManager.cs",
-              "RelativeToolTip": "DevFramework.Northwind.Business\\Concrete\\Managers\\ProductManager.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAACUAAAA7AAAA",
+              "Title": "FluentValidationAspect.cs",
+              "DocumentMoniker": "C:\\Users\\ONUR\\Desktop\\C# Dili Dok\u00FCmanlar\\Proje - \u00D6rnekler - Kodlar(\u0130leri seviye kurs i\u00E7in)\\DevFramework\\DevFramework.Core\\Aspects\\Postsharp\\FluentValidationAspect.cs",
+              "RelativeDocumentMoniker": "DevFramework.Core\\Aspects\\Postsharp\\FluentValidationAspect.cs",
+              "ToolTip": "C:\\Users\\ONUR\\Desktop\\C# Dili Dok\u00FCmanlar\\Proje - \u00D6rnekler - Kodlar(\u0130leri seviye kurs i\u00E7in)\\DevFramework\\DevFramework.Core\\Aspects\\Postsharp\\FluentValidationAspect.cs",
+              "RelativeToolTip": "DevFramework.Core\\Aspects\\Postsharp\\FluentValidationAspect.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-22T11:44:39.905Z",
+              "WhenOpened": "2024-03-22T13:35:00.948Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "IProductService.cs",
-              "DocumentMoniker": "C:\\Users\\ONUR\\Desktop\\C# Dili Dok\u00FCmanlar\\Proje - \u00D6rnekler - Kodlar(\u0130leri seviye kurs i\u00E7in)\\DevFramework\\DevFramework.Northwind.Business\\Abstract\\IProductService.cs",
-              "RelativeDocumentMoniker": "DevFramework.Northwind.Business\\Abstract\\IProductService.cs",
-              "ToolTip": "C:\\Users\\ONUR\\Desktop\\C# Dili Dok\u00FCmanlar\\Proje - \u00D6rnekler - Kodlar(\u0130leri seviye kurs i\u00E7in)\\DevFramework\\DevFramework.Northwind.Business\\Abstract\\IProductService.cs",
-              "RelativeToolTip": "DevFramework.Northwind.Business\\Abstract\\IProductService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABLAAAA",
+              "Title": "ProductManager.cs",
+              "DocumentMoniker": "C:\\Users\\ONUR\\Desktop\\C# Dili Dok\u00FCmanlar\\Proje - \u00D6rnekler - Kodlar(\u0130leri seviye kurs i\u00E7in)\\DevFramework\\DevFramework.Northwind.Business\\Concrete\\Managers\\ProductManager.cs",
+              "RelativeDocumentMoniker": "DevFramework.Northwind.Business\\Concrete\\Managers\\ProductManager.cs",
+              "ToolTip": "C:\\Users\\ONUR\\Desktop\\C# Dili Dok\u00FCmanlar\\Proje - \u00D6rnekler - Kodlar(\u0130leri seviye kurs i\u00E7in)\\DevFramework\\DevFramework.Northwind.Business\\Concrete\\Managers\\ProductManager.cs",
+              "RelativeToolTip": "DevFramework.Northwind.Business\\Concrete\\Managers\\ProductManager.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABsAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-22T11:39:06.704Z",
+              "WhenOpened": "2024-03-22T13:05:02.73Z",
               "EditorCaption": ""
             }
           ]

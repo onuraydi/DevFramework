@@ -1,4 +1,7 @@
-﻿using DevFramework.Northwind.Business.Abstract;
+﻿using DevFramework.Core.Aspects.Postsharp;
+using DevFramework.Core.CrossCutiingConcerns.Validation.FluentValidation;
+using DevFramework.Northwind.Business.Abstract;
+using DevFramework.Northwind.Business.ValidationRules.FluentValidation;
 using DevFramework.Northwind.DataAccess.Abstract;
 using DevFramework.Nortwind.Entities.Concrete;
 using System;
@@ -22,9 +25,10 @@ namespace DevFramework.Northwind.Business.Concrete.Managers
         {
             _productdal = productdal;
         }
-
+        [FluentValidationAspect(typeof(ProductValidatior))]
         public Product Add(Product product)
         {
+
             return _productdal.Add(product);
         }
 
@@ -36,6 +40,12 @@ namespace DevFramework.Northwind.Business.Concrete.Managers
         public Product GetById(int id)
         {
             return _productdal.Get(p => p.ProductID == id);
+        }
+        [FluentValidationAspect(typeof(ProductValidatior))]
+        public Product Update(Product product)
+        {
+ 
+            return _productdal.Update(product);
         }
     }
 }
