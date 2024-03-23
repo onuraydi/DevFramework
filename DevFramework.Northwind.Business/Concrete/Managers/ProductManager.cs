@@ -1,4 +1,5 @@
 ﻿using DevFramework.Core.Aspects.Postsharp;
+using DevFramework.Core.Aspects.Postsharp.TransactionAspects;
 using DevFramework.Core.CrossCutiingConcerns.Validation.FluentValidation;
 using DevFramework.Northwind.Business.Abstract;
 using DevFramework.Northwind.Business.ValidationRules.FluentValidation;
@@ -9,6 +10,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Transactions;
 
 // Not Bu clasın içinde diyelimki efProductDal clasını newleyeceğiz ancak bunu newlemek şeklinde yaparsak programı
 // EntityFramework'e bağlamış oluruz daha sonra başka bir teknoloji ile çalışacağımız zaman bu olay bizim başka teknolojiye
@@ -41,6 +43,14 @@ namespace DevFramework.Northwind.Business.Concrete.Managers
         {
             return _productdal.Get(p => p.ProductID == id);
         }
+        [TransactionScopeAspect]
+        public void TransactionalOperation(Product product1, Product product2)
+        {
+                    _productdal.Add(product1);
+                    // busines codes
+                    _productdal.Update(product2);
+        }
+
         [FluentValidationAspect(typeof(ProductValidatior))]
         public Product Update(Product product)
         {
