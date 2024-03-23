@@ -20,3 +20,11 @@ C:\Users\ONUR\Desktop\C# Dili Dokümanlar\Proje - Örnekler - Kodlar(İleri sevi
 C:\Users\ONUR\Desktop\C# Dili Dokümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DevFramework\DevFramework.Nortwind.Entities\obj\Debug\DevFrame.86BC1236.Up2Date
 C:\Users\ONUR\Desktop\C# Dili Dokümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DevFramework\DevFramework.Nortwind.Entities\obj\Debug\DevFramework.Nortwind.Entities.dll
 C:\Users\ONUR\Desktop\C# Dili Dokümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DevFramework\DevFramework.Nortwind.Entities\obj\Debug\DevFramework.Nortwind.Entities.pdb
+C:\Users\ONUR\Desktop\C# Dili Dokümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DevFramework\DevFramework.Nortwind.Entities\bin\Debug\FluentValidation.dll
+C:\Users\ONUR\Desktop\C# Dili Dokümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DevFramework\DevFramework.Nortwind.Entities\bin\Debug\PostSharp.dll
+C:\Users\ONUR\Desktop\C# Dili Dokümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DevFramework\DevFramework.Nortwind.Entities\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ONUR\Desktop\C# Dili Dokümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DevFramework\DevFramework.Nortwind.Entities\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ONUR\Desktop\C# Dili Dokümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DevFramework\DevFramework.Nortwind.Entities\bin\Debug\FluentValidation.xml
+C:\Users\ONUR\Desktop\C# Dili Dokümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DevFramework\DevFramework.Nortwind.Entities\bin\Debug\PostSharp.xml
+C:\Users\ONUR\Desktop\C# Dili Dokümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DevFramework\DevFramework.Nortwind.Entities\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ONUR\Desktop\C# Dili Dokümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DevFramework\DevFramework.Nortwind.Entities\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml

@@ -21,7 +21,7 @@ namespace DevFramework.Northwind.Business.Concrete.Managers
     {
         private IProductDal _productdal;
 
-        public ProductManager(IProductDal productdal)
+        public ProductManager(IProductDal productdal)  // Buraya gerekirse IQueryable ekleyebiliriz core katmanında oluşturmuştuk
         {
             _productdal = productdal;
         }
