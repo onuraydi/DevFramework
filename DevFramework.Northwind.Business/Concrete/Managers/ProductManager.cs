@@ -1,5 +1,7 @@
 ﻿using DevFramework.Core.Aspects.Postsharp;
+using DevFramework.Core.Aspects.Postsharp.CacheAspects;
 using DevFramework.Core.Aspects.Postsharp.TransactionAspects;
+using DevFramework.Core.CrossCutiingConcerns.Caching.Microsoft;
 using DevFramework.Core.CrossCutiingConcerns.Validation.FluentValidation;
 using DevFramework.Northwind.Business.Abstract;
 using DevFramework.Northwind.Business.ValidationRules.FluentValidation;
@@ -27,13 +29,17 @@ namespace DevFramework.Northwind.Business.Concrete.Managers
         {
             _productdal = productdal;
         }
+
+        // birbirini çok ekleyen ortamlar varsa bu ortamlarda cacheremoveaspect'e fazlaca ihtiyaç duyarız 
+        // çünkü bizim için önemli derece performans artışı sağlar
         [FluentValidationAspect(typeof(ProductValidatior))]
+        [CacheRemoveAspect(typeof(MemoryCacheManager))]
         public Product Add(Product product)
         {
 
             return _productdal.Add(product);
         }
-
+        [CacheAspect(typeof(MemoryCacheManager))]
         public List<Product> GetAll()
         {
             return _productdal.GetAll();

@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\ONUR\\Desktop\\C# Dili Dok\u00FCmanlar\\Proje - \u00D6rnekler - Kodlar(\u0130leri seviye kurs i\u00E7in)\\DevFramework\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3F0C987B-EA3D-4240-BD3C-7488E32A22F7}|DevFramework.Core\\DevFramework.Core.csproj|c:\\users\\onur\\desktop\\c# dili dok\u00FCmanlar\\proje - \u00F6rnekler - kodlar(\u0130leri seviye kurs i\u00E7in)\\devframework\\devframework.core\\aspects\\postsharp\\transactionaspects\\transactionscopeaspect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F0C987B-EA3D-4240-BD3C-7488E32A22F7}|DevFramework.Core\\DevFramework.Core.csproj|solutionrelative:devframework.core\\aspects\\postsharp\\transactionaspects\\transactionscopeaspect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69FF5F1A-73BA-4897-9417-170AA2709E44}|DevFramework.Northwind.Business\\DevFramework.Northwind.Business.csproj|c:\\users\\onur\\desktop\\c# dili dok\u00FCmanlar\\proje - \u00F6rnekler - kodlar(\u0130leri seviye kurs i\u00E7in)\\devframework\\devframework.northwind.business\\concrete\\managers\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{69FF5F1A-73BA-4897-9417-170AA2709E44}|DevFramework.Northwind.Business\\DevFramework.Northwind.Business.csproj|C:\\Users\\ONUR\\Desktop\\C# Dili Dok\u00FCmanlar\\Proje - \u00D6rnekler - Kodlar(\u0130leri seviye kurs i\u00E7in)\\DevFramework\\devframework.northwind.business\\concrete\\managers\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{69FF5F1A-73BA-4897-9417-170AA2709E44}|DevFramework.Northwind.Business\\DevFramework.Northwind.Business.csproj|solutionrelative:devframework.northwind.business\\concrete\\managers\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{69FF5F1A-73BA-4897-9417-170AA2709E44}|DevFramework.Northwind.Business\\DevFramework.Northwind.Business.csproj|c:\\users\\onur\\desktop\\c# dili dok\u00FCmanlar\\proje - \u00F6rnekler - kodlar(\u0130leri seviye kurs i\u00E7in)\\devframework\\devframework.northwind.business\\abstract\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69FF5F1A-73BA-4897-9417-170AA2709E44}|DevFramework.Northwind.Business\\DevFramework.Northwind.Business.csproj|solutionrelative:devframework.northwind.business\\abstract\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3F0C987B-EA3D-4240-BD3C-7488E32A22F7}|DevFramework.Core\\DevFramework.Core.csproj|c:\\users\\onur\\desktop\\c# dili dok\u00FCmanlar\\proje - \u00F6rnekler - kodlar(\u0130leri seviye kurs i\u00E7in)\\devframework\\devframework.core\\aspects\\postsharp\\cacheaspects\\cacheremoveaspect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F0C987B-EA3D-4240-BD3C-7488E32A22F7}|DevFramework.Core\\DevFramework.Core.csproj|solutionrelative:devframework.core\\aspects\\postsharp\\cacheaspects\\cacheremoveaspect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F0C987B-EA3D-4240-BD3C-7488E32A22F7}|DevFramework.Core\\DevFramework.Core.csproj|c:\\users\\onur\\desktop\\c# dili dok\u00FCmanlar\\proje - \u00F6rnekler - kodlar(\u0130leri seviye kurs i\u00E7in)\\devframework\\devframework.core\\aspects\\postsharp\\cacheaspects\\cacheaspect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F0C987B-EA3D-4240-BD3C-7488E32A22F7}|DevFramework.Core\\DevFramework.Core.csproj|solutionrelative:devframework.core\\aspects\\postsharp\\cacheaspects\\cacheaspect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F0C987B-EA3D-4240-BD3C-7488E32A22F7}|DevFramework.Core\\DevFramework.Core.csproj|c:\\users\\onur\\desktop\\c# dili dok\u00FCmanlar\\proje - \u00F6rnekler - kodlar(\u0130leri seviye kurs i\u00E7in)\\devframework\\devframework.core\\crosscutiingconcerns\\caching\\microsoft\\memorycachemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F0C987B-EA3D-4240-BD3C-7488E32A22F7}|DevFramework.Core\\DevFramework.Core.csproj|solutionrelative:devframework.core\\crosscutiingconcerns\\caching\\microsoft\\memorycachemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,41 +34,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TransactionScopeAspect.cs",
-              "DocumentMoniker": "C:\\Users\\ONUR\\Desktop\\C# Dili Dok\u00FCmanlar\\Proje - \u00D6rnekler - Kodlar(\u0130leri seviye kurs i\u00E7in)\\DevFramework\\DevFramework.Core\\Aspects\\Postsharp\\TransactionAspects\\TransactionScopeAspect.cs",
-              "RelativeDocumentMoniker": "DevFramework.Core\\Aspects\\Postsharp\\TransactionAspects\\TransactionScopeAspect.cs",
-              "ToolTip": "C:\\Users\\ONUR\\Desktop\\C# Dili Dok\u00FCmanlar\\Proje - \u00D6rnekler - Kodlar(\u0130leri seviye kurs i\u00E7in)\\DevFramework\\DevFramework.Core\\Aspects\\Postsharp\\TransactionAspects\\TransactionScopeAspect.cs",
-              "RelativeToolTip": "DevFramework.Core\\Aspects\\Postsharp\\TransactionAspects\\TransactionScopeAspect.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAAACIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-23T08:50:03.932Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ProductManager.cs",
-              "DocumentMoniker": "C:\\Users\\ONUR\\Desktop\\C# Dili Dok\u00FCmanlar\\Proje - \u00D6rnekler - Kodlar(\u0130leri seviye kurs i\u00E7in)\\DevFramework\\DevFramework.Northwind.Business\\Concrete\\Managers\\ProductManager.cs",
-              "RelativeDocumentMoniker": "DevFramework.Northwind.Business\\Concrete\\Managers\\ProductManager.cs",
-              "ToolTip": "C:\\Users\\ONUR\\Desktop\\C# Dili Dok\u00FCmanlar\\Proje - \u00D6rnekler - Kodlar(\u0130leri seviye kurs i\u00E7in)\\DevFramework\\DevFramework.Northwind.Business\\Concrete\\Managers\\ProductManager.cs",
-              "RelativeToolTip": "DevFramework.Northwind.Business\\Concrete\\Managers\\ProductManager.cs",
-              "ViewState": "AQIAACYAAAAAAAAAAAAgwC0AAAAgAAAA",
+              "Title": "CacheRemoveAspect.cs",
+              "DocumentMoniker": "C:\\Users\\ONUR\\Desktop\\C# Dili Dok\u00FCmanlar\\Proje - \u00D6rnekler - Kodlar(\u0130leri seviye kurs i\u00E7in)\\DevFramework\\DevFramework.Core\\Aspects\\Postsharp\\CacheAspects\\CacheRemoveAspect.cs",
+              "RelativeDocumentMoniker": "DevFramework.Core\\Aspects\\Postsharp\\CacheAspects\\CacheRemoveAspect.cs",
+              "ToolTip": "C:\\Users\\ONUR\\Desktop\\C# Dili Dok\u00FCmanlar\\Proje - \u00D6rnekler - Kodlar(\u0130leri seviye kurs i\u00E7in)\\DevFramework\\DevFramework.Core\\Aspects\\Postsharp\\CacheAspects\\CacheRemoveAspect.cs",
+              "RelativeToolTip": "DevFramework.Core\\Aspects\\Postsharp\\CacheAspects\\CacheRemoveAspect.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAC8AAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-23T08:34:34.016Z",
+              "WhenOpened": "2024-03-23T10:31:04.165Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "IProductService.cs",
-              "DocumentMoniker": "C:\\Users\\ONUR\\Desktop\\C# Dili Dok\u00FCmanlar\\Proje - \u00D6rnekler - Kodlar(\u0130leri seviye kurs i\u00E7in)\\DevFramework\\DevFramework.Northwind.Business\\Abstract\\IProductService.cs",
-              "RelativeDocumentMoniker": "DevFramework.Northwind.Business\\Abstract\\IProductService.cs",
-              "ToolTip": "C:\\Users\\ONUR\\Desktop\\C# Dili Dok\u00FCmanlar\\Proje - \u00D6rnekler - Kodlar(\u0130leri seviye kurs i\u00E7in)\\DevFramework\\DevFramework.Northwind.Business\\Abstract\\IProductService.cs",
-              "RelativeToolTip": "DevFramework.Northwind.Business\\Abstract\\IProductService.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAABYAAABGAAAA",
+              "Title": "CacheAspect.cs",
+              "DocumentMoniker": "C:\\Users\\ONUR\\Desktop\\C# Dili Dok\u00FCmanlar\\Proje - \u00D6rnekler - Kodlar(\u0130leri seviye kurs i\u00E7in)\\DevFramework\\DevFramework.Core\\Aspects\\Postsharp\\CacheAspects\\CacheAspect.cs",
+              "RelativeDocumentMoniker": "DevFramework.Core\\Aspects\\Postsharp\\CacheAspects\\CacheAspect.cs",
+              "ToolTip": "C:\\Users\\ONUR\\Desktop\\C# Dili Dok\u00FCmanlar\\Proje - \u00D6rnekler - Kodlar(\u0130leri seviye kurs i\u00E7in)\\DevFramework\\DevFramework.Core\\Aspects\\Postsharp\\CacheAspects\\CacheAspect.cs",
+              "RelativeToolTip": "DevFramework.Core\\Aspects\\Postsharp\\CacheAspects\\CacheAspect.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwCEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-23T08:33:29.328Z",
+              "WhenOpened": "2024-03-23T09:55:55.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MemoryCacheManager.cs",
+              "DocumentMoniker": "C:\\Users\\ONUR\\Desktop\\C# Dili Dok\u00FCmanlar\\Proje - \u00D6rnekler - Kodlar(\u0130leri seviye kurs i\u00E7in)\\DevFramework\\DevFramework.Core\\CrossCutiingConcerns\\Caching\\Microsoft\\MemoryCacheManager.cs",
+              "RelativeDocumentMoniker": "DevFramework.Core\\CrossCutiingConcerns\\Caching\\Microsoft\\MemoryCacheManager.cs",
+              "ToolTip": "C:\\Users\\ONUR\\Desktop\\C# Dili Dok\u00FCmanlar\\Proje - \u00D6rnekler - Kodlar(\u0130leri seviye kurs i\u00E7in)\\DevFramework\\DevFramework.Core\\CrossCutiingConcerns\\Caching\\Microsoft\\MemoryCacheManager.cs",
+              "RelativeToolTip": "DevFramework.Core\\CrossCutiingConcerns\\Caching\\Microsoft\\MemoryCacheManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T09:20:36.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductManager.cs",
+              "DocumentMoniker": "C:\\Users\\ONUR\\Desktop\\C# Dili Dok\u00FCmanlar\\Proje - \u00D6rnekler - Kodlar(\u0130leri seviye kurs i\u00E7in)\\DevFramework\\DevFramework.Northwind.Business\\Concrete\\Managers\\ProductManager.cs",
+              "RelativeDocumentMoniker": "DevFramework.Northwind.Business\\Concrete\\Managers\\ProductManager.cs",
+              "ToolTip": "C:\\Users\\ONUR\\Desktop\\C# Dili Dok\u00FCmanlar\\Proje - \u00D6rnekler - Kodlar(\u0130leri seviye kurs i\u00E7in)\\DevFramework\\DevFramework.Northwind.Business\\Concrete\\Managers\\ProductManager.cs",
+              "RelativeToolTip": "DevFramework.Northwind.Business\\Concrete\\Managers\\ProductManager.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACIAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T08:34:34.016Z",
               "EditorCaption": ""
             }
           ]
