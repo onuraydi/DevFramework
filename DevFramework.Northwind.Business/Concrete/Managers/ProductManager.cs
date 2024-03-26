@@ -1,7 +1,10 @@
 ﻿using DevFramework.Core.Aspects.Postsharp;
 using DevFramework.Core.Aspects.Postsharp.CacheAspects;
+using DevFramework.Core.Aspects.Postsharp.LogAspects;
 using DevFramework.Core.Aspects.Postsharp.TransactionAspects;
 using DevFramework.Core.CrossCutiingConcerns.Caching.Microsoft;
+using DevFramework.Core.CrossCutiingConcerns.Logging.Log4Net.Logger;
+using DevFramework.Core.CrossCutiingConcerns.Logging.Log4Net.Loggers;
 using DevFramework.Core.CrossCutiingConcerns.Validation.FluentValidation;
 using DevFramework.Northwind.Business.Abstract;
 using DevFramework.Northwind.Business.ValidationRules.FluentValidation;
@@ -9,10 +12,12 @@ using DevFramework.Northwind.DataAccess.Abstract;
 using DevFramework.Nortwind.Entities.Concrete;
 using System;
 using System.Collections.Generic;
+using System.Data.Entity.Infrastructure.Interception;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Transactions;
+using DatabaseLogger = DevFramework.Core.CrossCutiingConcerns.Logging.Log4Net.Logger.DatabaseLogger;
 
 // Not Bu clasın içinde diyelimki efProductDal clasını newleyeceğiz ancak bunu newlemek şeklinde yaparsak programı
 // EntityFramework'e bağlamış oluruz daha sonra başka bir teknoloji ile çalışacağımız zaman bu olay bizim başka teknolojiye
@@ -40,6 +45,8 @@ namespace DevFramework.Northwind.Business.Concrete.Managers
             return _productdal.Add(product);
         }
         [CacheAspect(typeof(MemoryCacheManager))]
+        [LogAspect(typeof(DatabaseLogger))]
+        [LogAspect(typeof(FileLogger))]
         public List<Product> GetAll()
         {
             return _productdal.GetAll();
