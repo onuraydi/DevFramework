@@ -1,4 +1,4 @@
-﻿using DevFramework.Core.CrossCutiingConcerns.Caching;
+﻿using DevFramework.Core.CrossCuttingConcerns.Caching;
 using PostSharp.Aspects;
 using System;
 using System.Collections.Generic;

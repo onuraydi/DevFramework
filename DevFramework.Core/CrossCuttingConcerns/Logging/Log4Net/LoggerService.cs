@@ -3,10 +3,10 @@ using NHibernate.UserTypes;
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
+using System.Text; 
 using System.Threading.Tasks;
 
-namespace DevFramework.Core.CrossCutiingConcerns.Logging.Log4Net
+namespace DevFramework.Core.CrossCuttingConcerns.Logging.Log4Net
 {
     [Serializable]
     public class LoggerService

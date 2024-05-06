@@ -25,11 +25,15 @@ namespace DevFramework.Northwind.Business.DependencyResolvers.Ninject
             Bind<IProductService>().To<ProductManager>().InSingletonScope();  // bu normalde her aramada newlenir
                                                                               // biz bunu InSingletonScope yaparak
                                                                               // performans artışı sağladık
-            Bind<IProductDal>().To<EfProductDal>();  // entityFramework ile çalıştığımız için bunu kullandık
+            Bind<IProductDal>().To<EfProductDal>().InSingletonScope();  // entityFramework ile çalıştığımız için bunu kullandık
                                                      // daha sonra başka teknolojiye geçerken burayı değiştirmeliyiz
+
 
             // core katmanında query tanımlamıştık onu kullanmıyoruz ancak olurda kullanmak istersek diye bir 
             // bind işlemi de onun için yapalım
+
+            Bind<IUserService>().To<UserManager>().InSingletonScope();
+            Bind<IUserDal>().To<EfUserDal>().InSingletonScope();
 
             Bind(typeof(IQueryableRepository<>)).To(typeof(EfQueryableRepository<>));
             Bind<DbContext>().To<NorthwindContext>();

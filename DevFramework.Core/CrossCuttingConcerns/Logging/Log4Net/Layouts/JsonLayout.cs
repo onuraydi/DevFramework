@@ -1,4 +1,4 @@
-﻿using DevFramework.Core.CrossCutiingConcerns.Logging.Log4Net;
+﻿using DevFramework.Core.CrossCuttingConcerns.Logging.Log4Net;
 using log4net.Core;
 using log4net.Layout;
 using Newtonsoft.Json;

@@ -1,4 +1,5 @@
 ﻿using DevFramework.Northwind.Business.Abstract;
+using DevFramework.Nortwind.Entities.Concrete;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -23,6 +24,39 @@ namespace DevFramework.Northwind.MvcWebUI.Controllers
                 Products = _productService.GetAll()
             };
             return View(model);
+        }
+        
+        public string Add()
+        {
+            _productService.Add(new Product
+            {
+                CategoryId = 1,
+                ProductID = 19,
+                ProductName = "Test",
+                QuantityPerUnit = "test2",
+                UnitPrice = 25000
+            });
+            return "Added!";
+        }
+
+        public string AddUpdate()
+        {
+            _productService.TransactionalOperation(new Product
+            {
+                CategoryId = 1,
+                ProductID = 19,
+                ProductName = "Test",
+                QuantityPerUnit = "test",
+                UnitPrice = 25000
+            },new Product
+            {
+                CategoryId = 1,
+                ProductID = 19,
+                ProductName = "Test2",
+                QuantityPerUnit = "test2",
+                UnitPrice = 25000
+            });
+            return "Done";
         }
     }
 }

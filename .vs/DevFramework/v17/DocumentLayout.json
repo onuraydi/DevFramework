@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\ONUR\\Desktop\\C# Dili Dok\u00FCmanlar\\Proje - \u00D6rnekler - Kodlar(\u0130leri seviye kurs i\u00E7in)\\DevFramework\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3F0C987B-EA3D-4240-BD3C-7488E32A22F7}|DevFramework.Core\\DevFramework.Core.csproj|C:\\Users\\ONUR\\Desktop\\C# Dili Dok\u00FCmanlar\\Proje - \u00D6rnekler - Kodlar(\u0130leri seviye kurs i\u00E7in)\\DevFramework\\DevFramework.Core\\DataAccess\\EntityFramework\\EfEntityRepositoryBase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F0C987B-EA3D-4240-BD3C-7488E32A22F7}|DevFramework.Core\\DevFramework.Core.csproj|solutionrelative:DevFramework.Core\\DataAccess\\EntityFramework\\EfEntityRepositoryBase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BD8ACFCE-61AE-431E-916B-3687E540E566}|DevFramework.Northwind.MvcWebUI\\DevFramework.Northwind.MvcWebUI.csproj|c:\\users\\onur\\desktop\\c# dili dok\u00FCmanlar\\proje - \u00F6rnekler - kodlar(\u0130leri seviye kurs i\u00E7in)\\devframework\\devframework.northwind.mvcwebui\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD8ACFCE-61AE-431E-916B-3687E540E566}|DevFramework.Northwind.MvcWebUI\\DevFramework.Northwind.MvcWebUI.csproj|solutionrelative:devframework.northwind.mvcwebui\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69FF5F1A-73BA-4897-9417-170AA2709E44}|DevFramework.Northwind.Business\\DevFramework.Northwind.Business.csproj|c:\\users\\onur\\desktop\\c# dili dok\u00FCmanlar\\proje - \u00F6rnekler - kodlar(\u0130leri seviye kurs i\u00E7in)\\devframework\\devframework.northwind.business\\concrete\\managers\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69FF5F1A-73BA-4897-9417-170AA2709E44}|DevFramework.Northwind.Business\\DevFramework.Northwind.Business.csproj|solutionrelative:devframework.northwind.business\\concrete\\managers\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69FF5F1A-73BA-4897-9417-170AA2709E44}|DevFramework.Northwind.Business\\DevFramework.Northwind.Business.csproj|c:\\users\\onur\\desktop\\c# dili dok\u00FCmanlar\\proje - \u00F6rnekler - kodlar(\u0130leri seviye kurs i\u00E7in)\\devframework\\devframework.northwind.business\\abstract\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69FF5F1A-73BA-4897-9417-170AA2709E44}|DevFramework.Northwind.Business\\DevFramework.Northwind.Business.csproj|solutionrelative:devframework.northwind.business\\abstract\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69FF5F1A-73BA-4897-9417-170AA2709E44}|DevFramework.Northwind.Business\\DevFramework.Northwind.Business.csproj|c:\\users\\onur\\desktop\\c# dili dok\u00FCmanlar\\proje - \u00F6rnekler - kodlar(\u0130leri seviye kurs i\u00E7in)\\devframework\\devframework.northwind.business\\concrete\\managers\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69FF5F1A-73BA-4897-9417-170AA2709E44}|DevFramework.Northwind.Business\\DevFramework.Northwind.Business.csproj|solutionrelative:devframework.northwind.business\\concrete\\managers\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,15 +34,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EfEntityRepositoryBase.cs",
-              "DocumentMoniker": "C:\\Users\\ONUR\\Desktop\\C# Dili Dok\u00FCmanlar\\Proje - \u00D6rnekler - Kodlar(\u0130leri seviye kurs i\u00E7in)\\DevFramework\\DevFramework.Core\\DataAccess\\EntityFramework\\EfEntityRepositoryBase.cs",
-              "RelativeDocumentMoniker": "DevFramework.Core\\DataAccess\\EntityFramework\\EfEntityRepositoryBase.cs",
-              "ToolTip": "C:\\Users\\ONUR\\Desktop\\C# Dili Dok\u00FCmanlar\\Proje - \u00D6rnekler - Kodlar(\u0130leri seviye kurs i\u00E7in)\\DevFramework\\DevFramework.Core\\DataAccess\\EntityFramework\\EfEntityRepositoryBase.cs",
-              "RelativeToolTip": "DevFramework.Core\\DataAccess\\EntityFramework\\EfEntityRepositoryBase.cs",
-              "ViewState": "AQIAAC4AAAAAAAAAAAAwwDMAAAAJAAAA",
+              "DocumentIndex": 2,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\ONUR\\Desktop\\C# Dili Dok\u00FCmanlar\\Proje - \u00D6rnekler - Kodlar(\u0130leri seviye kurs i\u00E7in)\\DevFramework\\DevFramework.Northwind.Business\\Abstract\\IUserService.cs",
+              "RelativeDocumentMoniker": "DevFramework.Northwind.Business\\Abstract\\IUserService.cs",
+              "ToolTip": "C:\\Users\\ONUR\\Desktop\\C# Dili Dok\u00FCmanlar\\Proje - \u00D6rnekler - Kodlar(\u0130leri seviye kurs i\u00E7in)\\DevFramework\\DevFramework.Northwind.Business\\Abstract\\IUserService.cs",
+              "RelativeToolTip": "DevFramework.Northwind.Business\\Abstract\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T20:24:10.923Z",
+              "WhenOpened": "2024-05-06T19:06:02.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserManager.cs",
+              "DocumentMoniker": "C:\\Users\\ONUR\\Desktop\\C# Dili Dok\u00FCmanlar\\Proje - \u00D6rnekler - Kodlar(\u0130leri seviye kurs i\u00E7in)\\DevFramework\\DevFramework.Northwind.Business\\Concrete\\Managers\\UserManager.cs",
+              "RelativeDocumentMoniker": "DevFramework.Northwind.Business\\Concrete\\Managers\\UserManager.cs",
+              "ToolTip": "C:\\Users\\ONUR\\Desktop\\C# Dili Dok\u00FCmanlar\\Proje - \u00D6rnekler - Kodlar(\u0130leri seviye kurs i\u00E7in)\\DevFramework\\DevFramework.Northwind.Business\\Concrete\\Managers\\UserManager.cs",
+              "RelativeToolTip": "DevFramework.Northwind.Business\\Concrete\\Managers\\UserManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T19:05:26.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductManager.cs",
+              "DocumentMoniker": "C:\\Users\\ONUR\\Desktop\\C# Dili Dok\u00FCmanlar\\Proje - \u00D6rnekler - Kodlar(\u0130leri seviye kurs i\u00E7in)\\DevFramework\\DevFramework.Northwind.Business\\Concrete\\Managers\\ProductManager.cs",
+              "RelativeDocumentMoniker": "DevFramework.Northwind.Business\\Concrete\\Managers\\ProductManager.cs",
+              "ToolTip": "C:\\Users\\ONUR\\Desktop\\C# Dili Dok\u00FCmanlar\\Proje - \u00D6rnekler - Kodlar(\u0130leri seviye kurs i\u00E7in)\\DevFramework\\DevFramework.Northwind.Business\\Concrete\\Managers\\ProductManager.cs",
+              "RelativeToolTip": "DevFramework.Northwind.Business\\Concrete\\Managers\\ProductManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T19:05:25.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\ONUR\\Desktop\\C# Dili Dok\u00FCmanlar\\Proje - \u00D6rnekler - Kodlar(\u0130leri seviye kurs i\u00E7in)\\DevFramework\\DevFramework.Northwind.MvcWebUI\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "DevFramework.Northwind.MvcWebUI\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\ONUR\\Desktop\\C# Dili Dok\u00FCmanlar\\Proje - \u00D6rnekler - Kodlar(\u0130leri seviye kurs i\u00E7in)\\DevFramework\\DevFramework.Northwind.MvcWebUI\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "DevFramework.Northwind.MvcWebUI\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBYAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T19:02:29.99Z",
               "EditorCaption": ""
             }
           ]

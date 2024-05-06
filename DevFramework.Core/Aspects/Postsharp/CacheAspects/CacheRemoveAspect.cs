@@ -1,4 +1,4 @@
-﻿using DevFramework.Core.CrossCutiingConcerns.Caching;
+﻿using DevFramework.Core.CrossCuttingConcerns.Caching;
 using Microsoft.SqlServer.Server;
 using PostSharp.Aspects;
 using System;

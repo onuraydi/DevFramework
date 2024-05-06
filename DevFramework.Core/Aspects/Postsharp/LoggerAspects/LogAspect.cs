@@ -1,5 +1,5 @@
-﻿using DevFramework.Core.CrossCutiingConcerns.Logging;
-using DevFramework.Core.CrossCutiingConcerns.Logging.Log4Net;
+﻿using DevFramework.Core.CrossCuttingConcerns.Logging;
+using DevFramework.Core.CrossCuttingConcerns.Logging.Log4Net;
 using PostSharp.Aspects;
 using PostSharp.Extensibility;
 using Remotion.Linq.Parsing.Structure.NodeTypeProviders;

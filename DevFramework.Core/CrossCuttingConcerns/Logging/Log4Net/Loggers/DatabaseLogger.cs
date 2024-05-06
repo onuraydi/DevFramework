@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DevFramework.Core.CrossCutiingConcerns.Logging.Log4Net.Logger
+namespace DevFramework.Core.CrossCuttingConcerns.Logging.Log4Net.Logger
 {
     public class DatabaseLogger : LoggerService
     {

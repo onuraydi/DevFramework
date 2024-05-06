@@ -1,4 +1,4 @@
-﻿using DevFramework.Core.CrossCutiingConcerns.Validation.FluentValidation;
+﻿using DevFramework.Core.CrossCuttingConcerns.Validation.FluentValidation;
 using FluentValidation;
 using PostSharp.Aspects;
 using System;
