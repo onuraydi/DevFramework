@@ -1,4 +1,5 @@
-﻿using DevFramework.Core.CrossCuttingConcerns.Logging.Log4Net;
+﻿using DevFramework.Core.CrossCuttingConcerns.Logging;
+using DevFramework.Core.CrossCuttingConcerns.Logging.Log4Net;
 using PostSharp.Aspects;
 using System;
 using System.Collections.Generic;
@@ -21,6 +22,15 @@ namespace DevFramework.Core.Aspects.Postsharp.PerformanceAspects
         private Stopwatch _stopwatch;
 
 
+        private Type _loggertype;
+        private LoggerService _loggerService;
+        public PerformanceCounterAspect(Type type)
+        {
+            _loggertype = type;
+        }
+
+        
+
         public PerformanceCounterAspect(int interval = 5)
         {
             _interval = interval;
@@ -28,6 +38,7 @@ namespace DevFramework.Core.Aspects.Postsharp.PerformanceAspects
         public override void RuntimeInitialize(MethodBase method)
         {
             _stopwatch = Activator.CreateInstance<Stopwatch>();
+            base.RuntimeInitialize(method);
         }
         public override void OnEntry(MethodExecutionArgs args)
         {
@@ -40,7 +51,7 @@ namespace DevFramework.Core.Aspects.Postsharp.PerformanceAspects
             if(_stopwatch.Elapsed.TotalSeconds>_interval)
             {
                 //burası şimdilik basit yapıldı ama istersek loglama, kendimize mail atma gibi şeyler yapabiliriz.
-                Debug.WriteLine("Performance: {0}.{1}-->>{2}", args.Method.DeclaringType.FullName,args.Method.Name,_stopwatch.Elapsed.TotalSeconds);
+                Debug.WriteLine("Performance: {0}.{1}-->>{2}", args.Method.DeclaringType.FullName, args.Method.Name, _stopwatch.Elapsed.TotalSeconds);
             }
             _stopwatch.Reset();
             base.OnExit(args);

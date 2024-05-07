@@ -1,4 +1,5 @@
-﻿using DevFramework.Core.Aspects.Postsharp;
+﻿using AutoMapper;
+using DevFramework.Core.Aspects.Postsharp;
 using DevFramework.Core.Aspects.Postsharp.AuthorizationAspects;
 using DevFramework.Core.Aspects.Postsharp.CacheAspects;
 using DevFramework.Core.Aspects.Postsharp.LogAspects;
@@ -8,6 +9,7 @@ using DevFramework.Core.CrossCuttingConcerns.Caching.Microsoft;
 using DevFramework.Core.CrossCuttingConcerns.Logging.Log4Net.Logger;
 using DevFramework.Core.CrossCuttingConcerns.Logging.Log4Net.Loggers;
 using DevFramework.Core.CrossCuttingConcerns.Validation.FluentValidation;
+using DevFramework.Core.Utilities.Mappings;
 using DevFramework.Northwind.Business.Abstract;
 using DevFramework.Northwind.Business.ValidationRules.FluentValidation;
 using DevFramework.Northwind.DataAccess.Abstract;
@@ -32,10 +34,12 @@ namespace DevFramework.Northwind.Business.Concrete.Managers
     public class ProductManager : IProductService
     {
         private IProductDal _productdal;
+        private readonly IMapper _mapper;
 
-        public ProductManager(IProductDal productdal)  // Buraya gerekirse IQueryable ekleyebiliriz core katmanında oluşturmuştuk
+        public ProductManager(IProductDal productdal, IMapper mapper)  // Buraya gerekirse IQueryable ekleyebiliriz core katmanında oluşturmuştuk
         {
             _productdal = productdal;
+            _mapper = mapper;
         }
 
         // birbirini çok ekleyen ortamlar varsa bu ortamlarda cacheremoveaspect'e fazlaca ihtiyaç duyarız 
@@ -53,8 +57,19 @@ namespace DevFramework.Northwind.Business.Concrete.Managers
         [SecuredOperation(Roles ="Admin,Editor")]  // bu metoda sadece admin rolüne sahip kişiler erişebilir.
         public List<Product> GetAll()
         {
-            
-            return _productdal.GetAll();
+            /*
+            return _productdal.GetAll().Select(p=> new Product  //serileştirme işlemi ancak auto mapper ile yapılacak yoksa her metot için yazılmak zorunda kalınır 
+            {
+                CategoryId = p.CategoryId,
+                ProductID = p.ProductID,
+                ProductName = p.ProductName,
+                QuantityPerUnit = p.QuantityPerUnit,
+                UnitPrice = p.UnitPrice
+            }).ToList();*/
+
+            var products = _mapper.Map<List<Product>>(_productdal.GetAll());
+            //var products = AutoMapperHelper.MapToSameTypeList(_productdal.GetAll()); 
+            return products;   
         }
 
         public Product GetById(int id)
