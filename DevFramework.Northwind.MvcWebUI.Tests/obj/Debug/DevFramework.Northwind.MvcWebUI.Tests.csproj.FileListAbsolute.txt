@@ -136,3 +136,11 @@ C:\DevFramework\DevFramework.Northwind.MvcWebUI.Tests\obj\Debug\DevFramework.Nor
 C:\DevFramework\DevFramework.Northwind.MvcWebUI.Tests\obj\Debug\DevFrame.0804C2BD.Up2Date
 C:\DevFramework\DevFramework.Northwind.MvcWebUI.Tests\obj\Debug\DevFramework.Northwind.MvcWebUI.Tests.dll
 C:\DevFramework\DevFramework.Northwind.MvcWebUI.Tests\obj\Debug\DevFramework.Northwind.MvcWebUI.Tests.pdb
+C:\Users\ONUR\Desktop\C# Dili Dokümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DevFramework\DevFramework.Northwind.MvcWebUI.Tests\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\ONUR\Desktop\C# Dili Dokümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DevFramework\DevFramework.Northwind.MvcWebUI.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\ONUR\Desktop\C# Dili Dokümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DevFramework\DevFramework.Northwind.MvcWebUI.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\ONUR\Desktop\C# Dili Dokümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DevFramework\DevFramework.Northwind.MvcWebUI.Tests\bin\Debug\AutoMapper.dll
+C:\Users\ONUR\Desktop\C# Dili Dokümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DevFramework\DevFramework.Northwind.MvcWebUI.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\ONUR\Desktop\C# Dili Dokümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DevFramework\DevFramework.Northwind.MvcWebUI.Tests\bin\Debug\DevFramework.Nortwind.Entities.dll.config
+C:\Users\ONUR\Desktop\C# Dili Dokümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DevFramework\DevFramework.Northwind.MvcWebUI.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\ONUR\Desktop\C# Dili Dokümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DevFramework\DevFramework.Northwind.MvcWebUI.Tests\bin\Debug\AutoMapper.xml

@@ -130,3 +130,9 @@ C:\DevFramework\DevFramework.DataAccess.Tests\obj\Debug\DevFramework.DataAccess.
 C:\DevFramework\DevFramework.DataAccess.Tests\obj\Debug\DevFrame.43CB5FC7.Up2Date
 C:\DevFramework\DevFramework.DataAccess.Tests\obj\Debug\DevFramework.DataAccess.Tests.dll
 C:\DevFramework\DevFramework.DataAccess.Tests\obj\Debug\DevFramework.DataAccess.Tests.pdb
+C:\Users\ONUR\Desktop\C# Dili Dokümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DevFramework\DevFramework.DataAccess.Tests\bin\Debug\AutoMapper.dll
+C:\Users\ONUR\Desktop\C# Dili Dokümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DevFramework\DevFramework.DataAccess.Tests\bin\Debug\DevFramework.Nortwind.Entities.dll.config
+C:\Users\ONUR\Desktop\C# Dili Dokümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DevFramework\DevFramework.DataAccess.Tests\bin\Debug\AutoMapper.xml
+C:\Users\ONUR\Desktop\C# Dili Dokümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DevFramework\DevFramework.DataAccess.Tests\bin\Debug\DevFramework.Northwind.Business.dll
+C:\Users\ONUR\Desktop\C# Dili Dokümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DevFramework\DevFramework.DataAccess.Tests\bin\Debug\DevFramework.Northwind.Business.pdb
+C:\Users\ONUR\Desktop\C# Dili Dokümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DevFramework\DevFramework.DataAccess.Tests\bin\Debug\DevFramework.Northwind.Business.dll.config

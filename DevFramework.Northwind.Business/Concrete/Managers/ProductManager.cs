@@ -54,7 +54,7 @@ namespace DevFramework.Northwind.Business.Concrete.Managers
         [CacheAspect(typeof(MemoryCacheManager))]
         [PerformanceCounterAspect(2)]    // Bizim için önemli bir metot olduğu için bunu bu şekilde kullandık ve parametreyi
         // daha da azalttık bu özel kullanıma örnektir.
-        [SecuredOperation(Roles ="Admin,Editor")]  // bu metoda sadece admin rolüne sahip kişiler erişebilir.
+        //[SecuredOperation(Roles ="Admin,Editor")]  // bu metoda sadece admin rolüne sahip kişiler erişebilir.
         public List<Product> GetAll()
         {
             /*

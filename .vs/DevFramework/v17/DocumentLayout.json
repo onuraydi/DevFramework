@@ -1,18 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ONUR\\Desktop\\C# Dili Dok\u00FCmanlar\\Proje - \u00D6rnekler - Kodlar(\u0130leri seviye kurs i\u00E7in)\\DevFramework\\",
+  "WorkspaceRootPath": "C:\\Users\\ONUR\\Desktop\\DevFramework\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{69FF5F1A-73BA-4897-9417-170AA2709E44}|DevFramework.Northwind.Business\\DevFramework.Northwind.Business.csproj|c:\\users\\onur\\desktop\\c# dili dok\u00FCmanlar\\proje - \u00F6rnekler - kodlar(\u0130leri seviye kurs i\u00E7in)\\devframework\\devframework.northwind.business\\dependencyresolvers\\ninject\\instancefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69FF5F1A-73BA-4897-9417-170AA2709E44}|DevFramework.Northwind.Business\\DevFramework.Northwind.Business.csproj|solutionrelative:devframework.northwind.business\\dependencyresolvers\\ninject\\instancefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0B3968AD-6192-4713-B39E-F8EC42377D44}|DevFramework.Northwind.WebApi\\DevFramework.Northwind.WebApi.csproj|c:\\users\\onur\\desktop\\c# dili dok\u00FCmanlar\\proje - \u00F6rnekler - kodlar(\u0130leri seviye kurs i\u00E7in)\\devframework\\devframework.northwind.webapi\\messagehandler\\authenticationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B3968AD-6192-4713-B39E-F8EC42377D44}|DevFramework.Northwind.WebApi\\DevFramework.Northwind.WebApi.csproj|solutionrelative:devframework.northwind.webapi\\messagehandler\\authenticationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0B3968AD-6192-4713-B39E-F8EC42377D44}|DevFramework.Northwind.WebApi\\DevFramework.Northwind.WebApi.csproj|c:\\users\\onur\\desktop\\c# dili dok\u00FCmanlar\\proje - \u00F6rnekler - kodlar(\u0130leri seviye kurs i\u00E7in)\\devframework\\devframework.northwind.webapi\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B3968AD-6192-4713-B39E-F8EC42377D44}|DevFramework.Northwind.WebApi\\DevFramework.Northwind.WebApi.csproj|solutionrelative:devframework.northwind.webapi\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{91C6A6D0-2D2F-4447-BF8E-888E3CD06FD4}|DevFramework.Northwind.DataAccess\\DevFramework.Northwind.DataAccess.csproj|c:\\users\\onur\\desktop\\devframework\\devframework.northwind.dataaccess\\concrete\\entityframework\\efproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91C6A6D0-2D2F-4447-BF8E-888E3CD06FD4}|DevFramework.Northwind.DataAccess\\DevFramework.Northwind.DataAccess.csproj|solutionrelative:devframework.northwind.dataaccess\\concrete\\entityframework\\efproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,40 +23,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "InstanceFactory.cs",
-              "DocumentMoniker": "C:\\Users\\ONUR\\Desktop\\C# Dili Dok\u00FCmanlar\\Proje - \u00D6rnekler - Kodlar(\u0130leri seviye kurs i\u00E7in)\\DevFramework\\DevFramework.Northwind.Business\\DependencyResolvers\\Ninject\\InstanceFactory.cs",
-              "RelativeDocumentMoniker": "DevFramework.Northwind.Business\\DependencyResolvers\\Ninject\\InstanceFactory.cs",
-              "ToolTip": "C:\\Users\\ONUR\\Desktop\\C# Dili Dok\u00FCmanlar\\Proje - \u00D6rnekler - Kodlar(\u0130leri seviye kurs i\u00E7in)\\DevFramework\\DevFramework.Northwind.Business\\DependencyResolvers\\Ninject\\InstanceFactory.cs",
-              "RelativeToolTip": "DevFramework.Northwind.Business\\DependencyResolvers\\Ninject\\InstanceFactory.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAgAAAA",
+              "Title": "EfProductDal.cs",
+              "DocumentMoniker": "C:\\Users\\ONUR\\Desktop\\DevFramework\\DevFramework.Northwind.DataAccess\\Concrete\\EntityFramework\\EfProductDal.cs",
+              "RelativeDocumentMoniker": "DevFramework.Northwind.DataAccess\\Concrete\\EntityFramework\\EfProductDal.cs",
+              "ToolTip": "C:\\Users\\ONUR\\Desktop\\DevFramework\\DevFramework.Northwind.DataAccess\\Concrete\\EntityFramework\\EfProductDal.cs",
+              "RelativeToolTip": "DevFramework.Northwind.DataAccess\\Concrete\\EntityFramework\\EfProductDal.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAA0AAABeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T18:29:48.193Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "WebApiConfig.cs",
-              "DocumentMoniker": "C:\\Users\\ONUR\\Desktop\\C# Dili Dok\u00FCmanlar\\Proje - \u00D6rnekler - Kodlar(\u0130leri seviye kurs i\u00E7in)\\DevFramework\\DevFramework.Northwind.WebApi\\App_Start\\WebApiConfig.cs",
-              "RelativeDocumentMoniker": "DevFramework.Northwind.WebApi\\App_Start\\WebApiConfig.cs",
-              "ToolTip": "C:\\Users\\ONUR\\Desktop\\C# Dili Dok\u00FCmanlar\\Proje - \u00D6rnekler - Kodlar(\u0130leri seviye kurs i\u00E7in)\\DevFramework\\DevFramework.Northwind.WebApi\\App_Start\\WebApiConfig.cs",
-              "RelativeToolTip": "DevFramework.Northwind.WebApi\\App_Start\\WebApiConfig.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAAAA0AAABPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T17:44:26.731Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AuthenticationHandler.cs",
-              "DocumentMoniker": "C:\\Users\\ONUR\\Desktop\\C# Dili Dok\u00FCmanlar\\Proje - \u00D6rnekler - Kodlar(\u0130leri seviye kurs i\u00E7in)\\DevFramework\\DevFramework.Northwind.WebApi\\MessageHandler\\AuthenticationHandler.cs",
-              "RelativeDocumentMoniker": "DevFramework.Northwind.WebApi\\MessageHandler\\AuthenticationHandler.cs",
-              "ToolTip": "C:\\Users\\ONUR\\Desktop\\C# Dili Dok\u00FCmanlar\\Proje - \u00D6rnekler - Kodlar(\u0130leri seviye kurs i\u00E7in)\\DevFramework\\DevFramework.Northwind.WebApi\\MessageHandler\\AuthenticationHandler.cs",
-              "RelativeToolTip": "DevFramework.Northwind.WebApi\\MessageHandler\\AuthenticationHandler.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAABIAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T17:34:40.45Z",
+              "WhenOpened": "2024-05-10T07:35:12.446Z",
               "EditorCaption": ""
             }
           ]

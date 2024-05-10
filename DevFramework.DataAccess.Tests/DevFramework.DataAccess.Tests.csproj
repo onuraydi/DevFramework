@@ -71,6 +71,10 @@
       <Project>{3F0C987B-EA3D-4240-BD3C-7488E32A22F7}</Project>
       <Name>DevFramework.Core</Name>
     </ProjectReference>
+    <ProjectReference Include="..\DevFramework.Northwind.Business\DevFramework.Northwind.Business.csproj">
+      <Project>{69ff5f1a-73ba-4897-9417-170aa2709e44}</Project>
+      <Name>DevFramework.Northwind.Business</Name>
+    </ProjectReference>
     <ProjectReference Include="..\DevFramework.Northwind.DataAccess\DevFramework.Northwind.DataAccess.csproj">
       <Project>{91C6A6D0-2D2F-4447-BF8E-888E3CD06FD4}</Project>
       <Name>DevFramework.Northwind.DataAccess</Name>

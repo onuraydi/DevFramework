@@ -234,3 +234,6 @@ C:\Users\ONUR\Desktop\C# Dili Dokümanlar\Proje - Örnekler - Kodlar(İleri sevi
 C:\Users\ONUR\Desktop\C# Dili Dokümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DevFramework\DevFramework.Northwind.MvcWebUI\bin\System.Web.Http.dll
 C:\Users\ONUR\Desktop\C# Dili Dokümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DevFramework\DevFramework.Northwind.MvcWebUI\bin\System.Net.Http.Formatting.xml
 C:\Users\ONUR\Desktop\C# Dili Dokümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DevFramework\DevFramework.Northwind.MvcWebUI\bin\System.Web.Http.xml
+C:\Users\ONUR\Desktop\C# Dili Dokümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DevFramework\DevFramework.Northwind.MvcWebUI\bin\AutoMapper.dll
+C:\Users\ONUR\Desktop\C# Dili Dokümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DevFramework\DevFramework.Northwind.MvcWebUI\bin\DevFramework.Nortwind.Entities.dll.config
+C:\Users\ONUR\Desktop\C# Dili Dokümanlar\Proje - Örnekler - Kodlar(İleri seviye kurs için)\DevFramework\DevFramework.Northwind.MvcWebUI\bin\AutoMapper.xml

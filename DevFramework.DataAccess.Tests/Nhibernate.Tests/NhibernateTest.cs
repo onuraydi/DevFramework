@@ -15,7 +15,7 @@ namespace DevFramework.DataAccess.Tests.Nhibernate.Tests
 
             var result = productDal.GetAll();
 
-            Assert.AreEqual(78, result.Count);
+            Assert.AreEqual(92, result.Count);
         }
 
         [TestMethod]
